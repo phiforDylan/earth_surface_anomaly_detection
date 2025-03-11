@@ -1,7 +1,7 @@
 # remote_sensing_object_detection
 
 # Introduction
-A Highly Generalizable Large Vision Models Leveraging Ground-based Priors for Remote Sensing Object Detection in 2023 GFSAIT Competition.
+A Highly Generalizable Large Vision Models for Remote Sensing Object Detection in 2023 GFSAIT Competition.
 
 # Method
 this study proposes a novel remote sensing object detection framework integrating ground-based prior construction and on-orbit inconsistency measurement. The method employs the encoder of the Segment Anything Model (SAM) for feature extraction and compresses data using Gaussian Mixture Models (GMM) with Bayesian Information Criterion (BIC), significantly reducing storage and transmission requirements. Object detection is performed via a dictionary look-up mechanism, efficiently identifying deviations using Manhattan distance within SAM’s representation space.
