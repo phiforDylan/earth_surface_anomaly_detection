@@ -11,8 +11,5 @@ Flowchart of Ground-based Priors Construction:
 Flowchart of Object Anomaly Detection:
 ![image](https://github.com/user-attachments/assets/5b276f6b-d223-41f4-983a-6c55dc62fd38)
 
-# Main Results
-
-![image](https://github.com/user-attachments/assets/017543bc-7768-4943-b678-da122e4f8fd7)
 
 
