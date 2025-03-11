@@ -1,4 +1,4 @@
-# earth_surface_anomaly_detection
+# remote_sensing_object_detection
 
 # Introduction
 A Highly Generalizable Large Vision Models Leveraging Ground-based Priors for Remote Sensing Object Detection in 2023 GFSAIT Competition.
